@@ -1,0 +1,12 @@
+td:first-of-type>div {
+    width: 240px;
+    height: 240px;
+}
+
+.chart{
+
+}
+.chart.chart-bar svg{
+  height: 120px;
+  width: 180px;
+}
